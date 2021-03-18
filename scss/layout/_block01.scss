@@ -20,6 +20,12 @@
     @extend .fz-18;
     background: $color2 !important;
     color: rgba(#fff,1) !important;
+    .block04 &{
+      margin-bottom: -60px;
+      @include media-breakpoint-up('m'){
+        margin-bottom: -94px;
+      }
+    }
   }
   &__title{
     font-family: $font-Verdana-Bold;
