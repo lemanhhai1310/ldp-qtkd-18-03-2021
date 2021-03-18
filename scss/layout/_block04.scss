@@ -4,17 +4,86 @@
   background-size: cover;
   @include media-breakpoint-up('m'){
     margin-top: -210px;
+    padding-top: 22px;
   }
   &__boxTop{
     margin-top: -100px;
     @include media-breakpoint-up('m'){
       margin-top: 0;
+      max-width: 1100px;
     }
+  }
+  &__title1{
+    font-family: $font-SVNGotham-Black;
+    color: $color1;
+    line-height: (26/22);
+    @extend .fz-26;
+    span{
+      @extend .fz-22;
+    }
+  }
+  &__title2{
+    @extend .fz-22;
+    color: #454658;
+    line-height: (26/22);
+    font-family: $font-SVNGotham-Black;
   }
   &__card1{
     padding: 20px;
     @include media-breakpoint-up('m'){
       padding: 40px;
+    }
+  }
+  &__box1{
+    border-radius: 8px;
+    text-align: center;
+    color: #ffffff;
+    i.fa{
+      font-size: 85px;
+    }
+    @include media-breakpoint-up('m'){
+      border-radius: 20px;
+    }
+    .uk-position-cover{
+      display: flex;
+      align-items: center;
+      > *{
+        width: 100%;
+      }
+    }
+    &__txt1{
+      @extend .fz-16;
+      font-family: $font-Verdana-Regular;
+      color: rgba(#ffffff,0.9);
+      &--c1{
+        font-family: $font-Verdana-Bold;
+      }
+    }
+    &__txt2{
+      @extend .fz-52;
+      font-family: $font-Verdana-Bold;
+      color: #ffffff;
+      line-height: (40/52);
+      margin-bottom: 8px;
+    }
+    &__txt3{
+      @extend .fz-48;
+      font-family: $font-Verdana-Bold;
+      color: #ffffff;
+      line-height: (37/48);
+      margin-bottom: 13px;
+    }
+    &__txt4{
+      @extend .fz-66;
+      font-family: $font-Verdana-Bold;
+      color: #ffffff;
+      line-height: (49/66);
+    }
+    &__txt5{
+      @extend .fz-20;
+      font-family: $font-Verdana-Regular;
+      color: #ffffff;
+      line-height: (24/20);
     }
   }
 }

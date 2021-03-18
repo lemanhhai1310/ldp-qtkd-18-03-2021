@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="38d0b099-8ce9-464b-bd7a-43d34791264f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/top2.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.18/css/uikit-rtl.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.18/css/uikit-rtl.min.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.18/css/uikit.css" afterDir="false" />
@@ -31,13 +32,17 @@
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Fonts/SVN-Gotham Black.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Fonts/SVN-Gotham-Black.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/abstracts/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/base/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/components/_fontsize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_fontsize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/components/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_grid.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/components/_margin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_margin.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout/_block01.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_block01.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/layout/_block04.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_block04.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/layout/_block05.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_block05.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/template-parts/layouts/block04.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/block04.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/layouts/block05.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/block05.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/css/uikit-rtl.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/css/uikit-rtl.min.css" beforeDir="false" />
@@ -102,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616030906203</updated>
       <workItem from="1616030907774" duration="343000" />
-      <workItem from="1616031341459" duration="15371000" />
+      <workItem from="1616031341459" duration="19411000" />
     </task>
     <servers />
   </component>
