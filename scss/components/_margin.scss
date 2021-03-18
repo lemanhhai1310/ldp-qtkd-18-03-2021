@@ -9,12 +9,13 @@
   }
 }
 $mb:
-0,5,
+0,5,7,
 10,15,
 20,24,25,
 30,36,
 40,
-50;
+50,
+101;
 @each $i in $mb {
   .mb-#{$i}-xl{
     @include media-breakpoint-up('xl'){

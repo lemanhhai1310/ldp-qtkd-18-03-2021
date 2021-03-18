@@ -2,6 +2,10 @@
 <?php $is_home = true; ?>
 <?php require "template-parts/layouts/header.php"; ?>
 
+<!--THỦ TỤC ĐĂNG KÝ XÉT TUYỂN + Các hoạt động sinh viên Quản Trị Kinh Doanh-->
+<?php require "template-parts/layouts/block02.php"; ?>
+<!--/THỦ TỤC ĐĂNG KÝ XÉT TUYỂN + Các hoạt động sinh viên Quản Trị Kinh Doanh-->
+
 <!--Thời hạn xét tuyển 25/03/2021-->
 <?php require "template-parts/layouts/block01.php"; ?>
 <!--/Thời hạn xét tuyển 25/03/2021-->
