@@ -86,4 +86,17 @@
       line-height: (24/20);
     }
   }
+  &__box1Mobile{
+    margin-left: -15px;
+    margin-right: -15px;
+    padding-left: 15px;
+    > *{
+      width: 200vw;
+      > *{
+        &:last-child{
+          margin-right: 15px;
+        }
+      }
+    }
+  }
 }

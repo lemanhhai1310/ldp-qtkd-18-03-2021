@@ -23,7 +23,7 @@
                 </div>
             </div>
         </div>
-        <div class="uk-position-relative">
+        <div class="uk-position-relative uk-visible@m">
             <div class="uk-child-width-1-1 uk-grid-66-m" uk-grid uk-scrollspy="cls: uk-animation-slide-bottom-small; target: .animation; delay: 300; repeat: true">
                 <div>
                     <div class="uk-flex-between uk-child-width-1-3 uk-child-width-auto@m uk-grid-small" uk-grid>
@@ -46,8 +46,14 @@
                             </div>
                         </div>
                         <div class="uk-hidden@m">
-                            <div class="uk-cover-container uk-background-02 block04__box1">
+                            <div class="uk-cover-container uk-background-02 block04__box1 animation" uk-scrollspy-class="uk-animation-slide-left-small">
                                 <canvas width="186" height="186"></canvas>
+                                <div class="uk-position-cover uk-padding-small">
+                                    <div>
+                                        <div class="block04__box1__txt2">98%</div>
+                                        <div class="block04__box1__txt1">SINH VIÊN CÓ VIỆC LÀM NGAY</div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div>
@@ -125,6 +131,73 @@
                     TRƯỜNG ĐÀO TẠO <br>
                     QUẢN TRỊ KINH DOANH <br> TỐT NHẤT VIỆT NAM
                 </h4>
+            </div>
+        </div>
+        <div class="uk-hidden@m block04__box1Mobile uk-overflow-auto">
+            <div class="uk-grid-10 uk-child-width-auto uk-flex-nowrap" uk-grid>
+                <div>
+                    <div class="uk-cover-container uk-background-01 block04__box1 animation" uk-scrollspy-class="uk-animation-slide-left-small">
+                        <canvas width="186" height="186"></canvas>
+                        <div class="uk-position-cover uk-padding-small">
+                            <div>
+                                <div class="uk-grid-5 uk-flex-center uk-flex-middle mb-10" uk-grid>
+                                    <div>
+                                        <div class="block04__box1__txt4">5</div>
+                                    </div>
+                                    <div>
+                                        <i class="fa fa-star" aria-hidden="true"></i>
+                                    </div>
+                                </div>
+                                <div class="block04__box1__txt5">CHẤT LƯỢNG ĐÀO TẠO</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="uk-cover-container uk-background-02 block04__box1 animation" uk-scrollspy-class="uk-animation-slide-left-small">
+                        <canvas width="186" height="186"></canvas>
+                        <div class="uk-position-cover uk-padding-small">
+                            <div>
+                                <div class="block04__box1__txt2">98%</div>
+                                <div class="block04__box1__txt1">SINH VIÊN CÓ VIỆC LÀM NGAY</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="uk-cover-container uk-background-01 block04__box1 animation">
+                        <canvas width="186" height="186"></canvas>
+                        <div class="uk-position-cover uk-padding-small">
+                            <div>
+                                <div class="block04__box1__txt2">19%</div>
+                                <div class="block04__box1__txt1">SINH VIÊN CÓ VIỆC LÀM TẠI NƯỚC NGOÀI</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="uk-cover-container uk-background-02 block04__box1 animation" uk-scrollspy-class="uk-animation-slide-right-small">
+                        <canvas width="186" height="186"></canvas>
+                        <div class="uk-position-cover uk-padding-small">
+                            <div>
+                                <div class="block04__box1__txt2">800</div>
+                                <div class="block04__box1__txt1 block04__box1__txt1--c1">SUẤT HỌC BỔNG</div>
+                                <div class="block04__box1__txt1">4 NĂM ĐẠI HỌC CHO TÂN SINH VIÊN</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="uk-cover-container uk-background-01 block04__box1 animation" uk-scrollspy-class="uk-animation-slide-right-small">
+                        <canvas width="186" height="186"></canvas>
+                        <div class="uk-position-cover uk-padding-small">
+                            <div>
+                                <div class="block04__box1__txt3">100%</div>
+                                <div class="block04__box1__txt1">SINH VIÊN LÀM VIỆC THỰC TẾ TẠI DOANH NGHIỆP TỪ NĂM 3</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
