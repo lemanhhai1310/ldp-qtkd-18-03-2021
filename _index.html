@@ -1,10 +1,92 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Landingpage TS QTKD 2021 - Trang chủ</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <!--CSS-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- UIkit CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.6.18/dist/css/uikit.min.css" />
+    <link rel="stylesheet" href="style.css?v=1616033445">
+    <!--JS-->
+    <script src="https://cdn.jsdelivr.net/npm/@shinsenter/defer.js/dist/defer_plus.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <!-- UIkit JS -->
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.6.18/dist/js/uikit.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.6.18/dist/js/uikit-icons.min.js"></script>
+    <script src="js/app.js"></script>
 </head>
-<body>
+<body class="isHome">
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+     attribution=setup_tool
+     page_id="2428809380682169"
+     logged_in_greeting="Bạn cần cắt HTML/CSS? Hãy chat ngay với chúng tôi"
+     logged_out_greeting="Bạn cần cắt HTML/CSS? Hãy chat ngay với chúng tôi">
+</div>
+<script>
+  defer(function() {
+    window.fbAsyncInit = function() {
+      FB.init({
+        xfbml            : true,
+        version          : 'v5.0'
+      });
+    };
 
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  }, 5000);
+</script><section id="app" class="uk-height-viewport uk-offcanvas-content uk-overflow-hidden uk-position-relative">
+    <!--Thời hạn xét tuyển 25/03/2021-->
+
+    <!--/Thời hạn xét tuyển 25/03/2021-->
+
+    <div class="footer uk-section-xsmall uk-background-02">
+        <div class="uk-container uk-container-small">
+            <div class="uk-flex-middle uk-child-width-auto uk-flex-between uk-grid-10" uk-grid>
+                <div>
+                    <div class="uk-flex-middle uk-grid-5 uk-grid-10-m" uk-grid>
+                        <div class="uk-width-auto">
+                            <a href="" class="uk-icon-button footer__icon" uk-icon="icon: mail; ratio: 0.9"></a>
+                        </div>
+                        <div class="uk-width-expand">
+                            <span class="footer__txt">daihocfpt@fpt.edu.vn</span>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <a href="" class="uk-button footer__btn uk-button-default uk-button-large uk-border-pill">
+                        <div class="uk-flex-middle uk-grid-5 uk-grid-10-m" uk-grid>
+                            <div class="uk-width-auto">
+                                <span class="uk-icon-button footer__icon" uk-icon="icon: receiver; ratio: 0.9"></span>
+                            </div>
+                            <div class="uk-width-expand">
+                                <span class="footer__txt">024/028 73001866</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <div class="uk-flex-middle uk-grid-5 uk-grid-10-m" uk-grid>
+                        <div class="uk-width-auto">
+                            <a href="" class="uk-icon-button footer__icon" uk-icon="icon: facebook; ratio: 0.9"></a>
+                        </div>
+                        <div class="uk-width-expand">
+                            <span class="footer__txt">FPT University</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 </body>
 </html>
