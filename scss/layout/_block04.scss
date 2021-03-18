@@ -39,7 +39,7 @@
     text-align: center;
     color: #ffffff;
     i.fa{
-      font-size: 85px;
+      @extend .fz-85;
     }
     @include media-breakpoint-up('m'){
       border-radius: 20px;
@@ -97,6 +97,32 @@
           margin-right: 15px;
         }
       }
+    }
+  }
+  &__card2{
+    color: #ffffff;
+    border-radius: 5px;
+    &__bg{
+      border: 1px solid #ffffff;
+    }
+    &__title{
+      line-height: (25.5/22);
+      @extend .fz-22;
+      font-family: $font-Roboto-Black;
+      color: #ffffff;
+    }
+    &__desc{
+      @extend .fz-16;
+      font-family: $font-Roboto-Regular;
+      color: #ffffff;
+      line-height: (18.5/16);
+    }
+  }
+  &__list{
+    >li{
+      @extend .fz-26;
+      color: $color1;
+      font-family: $font-Roboto-Black;
     }
   }
 }

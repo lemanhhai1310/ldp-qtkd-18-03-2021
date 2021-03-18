@@ -1,5 +1,5 @@
 <div class="block04 uk-section uk-position-relative uk-position-z-index uk-background-top-center" data-src="images/bg1.png" uk-img uk-height-viewport>
-    <div class="uk-container uk-container-small block04__boxTop">
+    <div class="uk-container uk-container-small mb-50 mb-100-m block04__boxTop">
         <div class="uk-flex-center mb-42" uk-grid>
             <div class="uk-width-4-5 uk-width-3-5@m">
                 <div class="uk-card block04__card1 uk-card-default uk-card-body uk-background-01 uk-border-rounded">
@@ -202,6 +202,68 @@
         </div>
     </div>
     <div class="uk-container">
-
+        <h2 class="block01__title mb-25 mb-66-m uk-h2 uk-text-center uk-text-uppercase">TẠI SAO HỌC QUẢN TRỊ KINH DOANH
+            <br> NÊN CHỌN ĐẠI HỌC FPT?</h2>
+        <div class="uk-child-width-1-3@m mb-50 mb-147-m uk-grid-small uk-grid-34-m uk-grid-match" uk-grid="parallax: 150">
+            <div>
+                <div class="block04__card2 uk-card uk-card-body uk-background-02 uk-text-center uk-box-shadow-small">
+                    <div>
+                        <div class="uk-cover-container uk-border-circle uk-display-inline-block block04__card2__bg">
+                            <div class="uk-position-cover uk-flex uk-flex-center uk-flex-middle">
+                                <img class="uk-responsive-width uk-responsive-height" src="images/ico1.png" alt="">
+                            </div>
+                            <canvas width="144" height="144"></canvas>
+                        </div>
+                    </div>
+                    <h4 class="uk-h4 block04__card2__title">CƠ SỞ VẬT CHẤT HIỆN ĐẠI VỚI KHÔNG GIAN HỌC XANH</h4>
+                    <p class="block04__card2__desc">Đại học FPT được xây dựng trên một không gian rộng lớn, tạo ra một môi trường giáo dục hiện đại, kết hợp hài hòa giữa cảnh quan thiên nhiên, thân thiện với môi trường. Trường như một đô thị thu nhỏ với đầy đủ mọi thứ giúp sinh viên có thể tập trung cho hoạt động học tập cũng như có nhiều trải nghiệm với cuộc sống tập thể, tự lập.</p>
+                </div>
+            </div>
+            <div>
+                <div class="block04__card2 uk-card uk-card-body uk-background-01 uk-text-center uk-box-shadow-small">
+                    <div>
+                        <div class="uk-cover-container uk-border-circle uk-display-inline-block block04__card2__bg">
+                            <div class="uk-position-cover uk-flex uk-flex-center uk-flex-middle">
+                                <img class="uk-responsive-width uk-responsive-height" src="images/ico2.png" alt="">
+                            </div>
+                            <canvas width="144" height="144"></canvas>
+                        </div>
+                    </div>
+                    <h4 class="uk-h4 block04__card2__title">ĐÀO TẠO THEO NHU CẦU DOANH NGHIỆP</h4>
+                    <p class="block04__card2__desc">Chương trình đào tạo của Đại học FPT được xây dựng với sự tham gia hỗ trợ, tư vấn của các chuyên gia hàng đầu từ các công ty thành viên và đối tác của Tập đoàn FPT.</p>
+                </div>
+            </div>
+            <div>
+                <div class="block04__card2 uk-card uk-card-body uk-background-02 uk-text-center uk-box-shadow-small">
+                    <div>
+                        <div class="uk-cover-container uk-border-circle uk-display-inline-block block04__card2__bg">
+                            <div class="uk-position-cover uk-flex uk-flex-center uk-flex-middle">
+                                <img class="uk-responsive-width uk-responsive-height" src="images/ico3.png" alt="">
+                            </div>
+                            <canvas width="144" height="144"></canvas>
+                        </div>
+                    </div>
+                    <h4 class="uk-h4 block04__card2__title">MÔI TRƯỜNG QUỐC TẾ TẠI SÂN NHÀ</h4>
+                    <p class="block04__card2__desc">Hiện có gần 100 sinh viên quốc tế theo học chương trình dài hạn và khoảng 300 lượt sinh viên ở 19 quốc gia trên thế giới như Mỹ, Nhật, Pháp, Thái Lan, Brunei, Hàn Quốc, Cameroon… đến trao đổi chương trình học tập ngắn hạn hoặc giao lưu văn hóa tại Đại học FPT.</p>
+                </div>
+            </div>
+        </div>
+        <h2 class="block01__title mb-25 mb-59-m uk-h2 uk-text-center uk-text-uppercase">CÁC CHUYÊN NGÀNH QUẢN TRỊ KINH DOANH</h2>
+        <div class="mb-60 mb-184-m" uk-grid>
+            <div class="uk-width-expand">
+                <iframe src="https://www.youtube-nocookie.com/embed/c2pz2mlSfXA?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe>
+            </div>
+            <div class="uk-width-2-5@m">
+                <ul class="uk-list block04__list">
+                    <li>• Digital Marketing</li>
+                    <li>• Kinh doanh quốc tế</li>
+                    <li>• Quản trị khách sạn</li>
+                    <li>• Quản trị dịch vụ du lịch & lữ hành</li>
+                    <li>• Quản trị truyền thông đa phương tiện</li>
+                </ul>
+            </div>
+        </div>
+        <h2 class="block01__title mb-25 mb-59-m uk-h2 uk-text-center uk-text-uppercase">HỌC QUẢN TRỊ KINH DOANH Ở ĐẠI HỌC FPT
+            <br> LÀ HỌC GÌ?</h2>
     </div>
 </div>

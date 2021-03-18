@@ -3,7 +3,7 @@
     <div class="uk-section-xsmall uk-position-relative uk-position-z-index">
         <div class="uk-container uk-container-small">
             <figure class="uk-text-center">
-                <a href=""><img src="images/logo1.png" alt=""></a>
+                <a href="."><img src="images/logo1.png" alt=""></a>
             </figure>
             <h1 class="uk-h1 uk-margin-remove-top uk-text-center block05__title mb-20 mb-33-m">NGÀNH QUẢN TRỊ KINH DOANH</h1>
             <div class="uk-flex-center mb-20 mb-25-m" uk-grid>
