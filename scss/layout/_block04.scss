@@ -1,0 +1,6 @@
+.block04{
+  margin-top: -150px;
+  @include media-breakpoint-up('m'){
+    margin-top: -210px;
+  }
+}

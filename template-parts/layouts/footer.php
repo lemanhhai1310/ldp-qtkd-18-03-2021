@@ -12,7 +12,7 @@
                     </div>
                 </div>
             </div>
-            <div uk-scrollspy-class="uk-animation-slide-top-small">
+            <div>
                 <a href="" class="uk-button footer__btn uk-button-default uk-button-large uk-border-pill">
                     <div class="uk-flex-middle uk-grid-5 uk-grid-10-m" uk-grid>
                         <div class="uk-width-auto">

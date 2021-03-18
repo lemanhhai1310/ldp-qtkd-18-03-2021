@@ -1,6 +1,8 @@
 <?php $data["title"] = "Trang chủ"; ?>
 <?php $is_home = true; ?>
 <?php require "template-parts/layouts/header.php"; ?>
+<?php require "template-parts/layouts/block05.php"; ?>
+<?php require "template-parts/layouts/block04.php"; ?>
 
 <!--SINH VIÊN, PHỤ HUYNH, NHÀ TUYỂN DỤNG NÓI GÌ?-->
 <?php require "template-parts/layouts/block03.php"; ?>
