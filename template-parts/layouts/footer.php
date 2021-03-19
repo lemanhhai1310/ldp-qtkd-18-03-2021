@@ -1,7 +1,7 @@
 <?php $ratio = 0.9; ?>
 <div class="footer uk-section-xsmall uk-background-02">
     <div class="uk-container uk-container-small">
-        <div class="uk-flex-middle uk-child-width-auto uk-flex-between uk-grid-10" uk-grid uk-scrollspy="cls: uk-animation-slide-bottom-small; target: > div; delay: 300; repeat: true">
+        <div class="uk-flex-middle uk-child-width-auto uk-flex-between uk-grid-10" uk-grid uk-scrollspy="cls: uk-animation-slide-bottom-small; target: > div; delay: 300; repeat: false">
             <div>
                 <div class="uk-flex-middle uk-grid-5 uk-grid-10-m" uk-grid>
                     <div class="uk-width-auto">

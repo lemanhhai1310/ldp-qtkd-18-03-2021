@@ -1,7 +1,7 @@
 <div class="uk-section block02">
     <div class="uk-container mb-30 mb-50-s mb-101-m">
         <h2 class="block01__title mb-25 mb-36-m uk-h2 uk-text-center uk-text-uppercase">THỦ TỤC ĐĂNG KÝ XÉT TUYỂN</h2>
-        <div class="uk-child-width-1-2 uk-child-width-1-4@m uk-grid-10 uk-grid-14-m uk-grid-match" uk-grid uk-scrollspy="cls: uk-animation-slide-bottom-small; target: .uk-card; delay: 300; repeat: true">
+        <div class="uk-child-width-1-2 uk-child-width-1-4@m uk-grid-10 uk-grid-14-m uk-grid-match" uk-grid uk-scrollspy="cls: uk-animation-slide-bottom-small; target: .uk-card; delay: 300; repeat: false">
             <?php
             $data = array(
                 array(
