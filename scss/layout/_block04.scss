@@ -91,7 +91,7 @@
     margin-right: -15px;
     padding-left: 15px;
     > *{
-      width: 200vw;
+      width: max-content;
       > *{
         &:last-child{
           margin-right: 15px;
@@ -123,6 +123,32 @@
       @extend .fz-26;
       color: $color1;
       font-family: $font-Roboto-Black;
+    }
+  }
+  &__card3{
+    border-bottom: 3px solid currentColor;
+    &--c1{
+      border-color: $color2;
+    }
+    &--c2{
+      border-color: $color1;
+    }
+    &__title{
+      @extend .fz-22;
+      font-family: $font-Roboto-Black;
+      line-height: (24/22);
+      .block04__card3--c1 &{
+        color: $color2;
+      }
+      .block04__card3--c2 &{
+        color: $color1;
+      }
+    }
+    &__article{
+      @extend .fz-16;
+      color: #2a3847;
+      font-family: $font-Roboto-Regular;
+      line-height: (113/6/16);
     }
   }
 }

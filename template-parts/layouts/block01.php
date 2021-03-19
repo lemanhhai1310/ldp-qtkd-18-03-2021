@@ -3,7 +3,7 @@ $date = strtotime(time());
 $date = strtotime("+7 day", $date);
 $date = date('y-m-d-h-i-s');
 ?>
-<div class="uk-section uk-background-01 block01 uk-light" uk-scrollspy="cls: uk-animation-slide-bottom-small; target: .animation; delay: 300; repeat: true">
+<div class="uk-section uk-background-01 block01 uk-light" uk-scrollspy="cls: uk-animation-slide-bottom-small; target: .animation; delay: 300; repeat: false">
     <div class="uk-container uk-container-small">
         <h2 class="block01__title mb-25 mb-30-m uk-h2 uk-text-center uk-text-uppercase"><span>Thời hạn xét tuyển</span> 25/03/2021</h2>
         <div class="mb-24 uk-flex-center" uk-grid>

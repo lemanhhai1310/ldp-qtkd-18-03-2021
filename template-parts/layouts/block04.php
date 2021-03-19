@@ -24,7 +24,7 @@
             </div>
         </div>
         <div class="uk-position-relative uk-visible@m">
-            <div class="uk-child-width-1-1 uk-grid-66-m" uk-grid uk-scrollspy="cls: uk-animation-slide-bottom-small; target: .animation; delay: 300; repeat: true">
+            <div class="uk-child-width-1-1 uk-grid-66-m" uk-grid uk-scrollspy="cls: uk-animation-slide-bottom-small; target: .animation; delay: 300; repeat: false">
                 <div>
                     <div class="uk-flex-between uk-child-width-1-3 uk-child-width-auto@m uk-grid-small" uk-grid>
                         <div>
@@ -265,5 +265,33 @@
         </div>
         <h2 class="block01__title mb-25 mb-59-m uk-h2 uk-text-center uk-text-uppercase">HỌC QUẢN TRỊ KINH DOANH Ở ĐẠI HỌC FPT
             <br> LÀ HỌC GÌ?</h2>
+        <div class="uk-child-width-1-3@m uk-grid-match" uk-grid>
+            <div>
+                <div class="uk-card block04__card3 block04__card3--c1 uk-card-default uk-card-body">
+                    <h5 class="uk-h5 block04__card3__title">CHƯƠNG TRÌNH HỌC</h5>
+                    <article class="uk-article block04__card3__article">
+                        <p>Chương trình ngành Quản trị kinh doanh của Trường Đại học FPT được thiết kế cập nhật theo chương trình của các trường nổi tiếng của thế giới và đáp ứng các tiêu chuẩn quốc tế. Năm 2019 ngành QTKD Trường Đại học FPT cơ sở Hoà Lạc đạt kiểm định toàn phần ACBSP (Accreditation Councl for Business Schools and Programs - Hội đồng kiểm định các trường học và chương trình đào tạo về kinh doanh</p>
+                    </article>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card block04__card3 block04__card3--c2 uk-card-default uk-card-body">
+                    <h5 class="uk-h5 block04__card3__title">SỰ KHÁC BIỆT</h5>
+                    <article class="uk-article block04__card3__article">
+                        <p>Sinh viên làm việc thực tế từ 4 - 8 tháng tại các công ty thành viên thuộc tập đoàn FPT hcặc hơn 300 doanh nghiệp là đối tác của tập đnàn FPT trên toàn thế giới.</p>
+                        <p>Sinh viên đoợc trang bị 2 ngoại ngữ (Tiếng Anh và Tiếng Trung) và kỹ năng mềm.</p>
+                        <p>Sinh viên sẽ được học cách ứng dụng CNTT vào trong công việc, học cách tư duy công nghệ trong lĩnh vực chuyên môn.</p>
+                    </article>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card block04__card3 block04__card3--c1 uk-card-default uk-card-body">
+                    <h5 class="uk-h5 block04__card3__title">THỜI GIAN HỌC TẬP</h5>
+                    <article class="uk-article block04__card3__article">
+                        <p>Chương trình gồm 9 học kỳ chuyên ngành trong đó có 1 học kỳ học tập tại doanh nghiệp (OJT), chưa kể thời gian rèn luyện tập trung và thời gian học tiếng Anh dự bị (phụ thuộc vào trình độ tiếng Anh đầu vào của sinh viên.</p>
+                    </article>
+                </div>
+            </div>
+        </div>
     </div>
 </div>

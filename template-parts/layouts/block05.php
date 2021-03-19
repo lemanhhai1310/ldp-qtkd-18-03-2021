@@ -1,4 +1,4 @@
-<div class="uk-position-relative block05 uk-background-norepeat uk-background-cover" data-src="images/bg2.png" uk-img uk-height-viewport="">
+<div class="uk-position-relative block05 uk-background-norepeat uk-background-cover" data-src="images/bg2.png" uk-img uk-height-viewport="" uk-parallax="bgy: -200">
     <div class="uk-position-cover block05__mode"></div>
     <div class="uk-section-xsmall uk-position-relative uk-position-z-index">
         <div class="uk-container uk-container-small">
