@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="38d0b099-8ce9-464b-bd7a-43d34791264f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/.idea/aptech.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aptech/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aptech/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aptech/README.md" afterDir="false" />
@@ -51,8 +52,19 @@
       <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/queue_email.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/send_queued_emails.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/wheel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/SVN-Gotham-Black.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/SVN-Kimberley.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Verdana-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Verdana.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-cntt1/.idea/ldp-cntt1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-cntt1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/_Group_hai.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.18/css/uikit-rtl.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.18/css/uikit-rtl.min.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.18/css/uikit.css" afterDir="false" />
@@ -82,7 +94,9 @@
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/layouts/block04.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/block04.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/layout/_block05.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_block05.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/css/uikit-rtl.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/css/uikit-rtl.min.css" beforeDir="false" />
@@ -157,7 +171,9 @@
       <workItem from="1616115969516" duration="2092000" />
       <workItem from="1616127744159" duration="533000" />
       <workItem from="1616144059608" duration="640000" />
-      <workItem from="1616145909135" duration="1272000" />
+      <workItem from="1616145909135" duration="1650000" />
+      <workItem from="1616205812299" duration="195000" />
+      <workItem from="1616218443440" duration="586000" />
     </task>
     <servers />
   </component>
