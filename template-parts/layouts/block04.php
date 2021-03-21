@@ -133,6 +133,16 @@
                 </h4>
             </div>
         </div>
+        <div class="uk-hidden@m uk-margin uk-text-center">
+            <h4 class="uk-h4 uk-text-center block04__title1">
+                <span>ĐẠI HỌC FPT</span> <br> NHIỀU NĂM LIÊN TIẾP ĐẠT
+            </h4>
+            <img src="images/top2.png" alt="">
+            <h4 class="uk-h4 uk-text-center block04__title2 uk-margin-remove">
+                TRƯỜNG ĐÀO TẠO <br>
+                QUẢN TRỊ KINH DOANH <br> TỐT NHẤT VIỆT NAM
+            </h4>
+        </div>
         <div class="uk-hidden@m block04__box1Mobile uk-overflow-auto">
             <div class="uk-grid-10 uk-child-width-auto uk-flex-nowrap" uk-grid>
                 <div>
